@@ -1,2 +1,1 @@
-guacamole/guacamole:1.5.4
-guacamole/guacad:1.5.4
+guacamole/guacd:1.5.4

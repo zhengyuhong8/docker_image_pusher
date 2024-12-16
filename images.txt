@@ -1,3 +1,2 @@
 guacamole/guacamole
 guacamole/guacad
-mysql:8.0

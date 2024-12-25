@@ -1,1 +1,1 @@
-guacamole/guacd:1.5.4
+rancher/rancher-webhook:v0.4.14

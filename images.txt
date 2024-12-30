@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.4.14
+rabbitmq:3.12.14-management

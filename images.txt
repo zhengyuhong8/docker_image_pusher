@@ -1,1 +1,2 @@
-rabbitmq:3.12.14-management
+zabbix/zabbix-server-mysql:alpine-5.4-latest
+zabbix/zabbix-web-nginx-mysql:alpine-5.4-latest

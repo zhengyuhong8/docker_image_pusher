@@ -1,1 +1,1 @@
-ubuntu:latest
+ubuntu-desktop:latest

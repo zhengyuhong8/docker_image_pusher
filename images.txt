@@ -1,1 +1,2 @@
-portainer/agent:2.21.5
+guacamole/guacamole:1.5.5
+guacamole/guacd:1.5.5

@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v1.2.0
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2

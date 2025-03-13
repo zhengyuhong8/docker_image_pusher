@@ -1,1 +1,1 @@
-registry:latest
+hectormolinero/xubuntu:v92

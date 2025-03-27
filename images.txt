@@ -1,1 +1,1 @@
-hectormolinero/xubuntu:v92
+nvidia/cuda:latest

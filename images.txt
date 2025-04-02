@@ -1,1 +1,1 @@
-node:18
+amd64/archlinux:latest

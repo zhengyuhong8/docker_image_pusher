@@ -1,1 +1,3 @@
-amd64/archlinux:latest
+pingcap/pd:latest
+pingcap/tikv:latest
+pingcap/tidb:latest

@@ -1,3 +1,1 @@
-pingcap/pd:latest
-pingcap/tikv:latest
-pingcap/tidb:latest
+apache/skywalking-oap-server:10.2.0

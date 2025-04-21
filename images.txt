@@ -1,1 +1,2 @@
-apache/skywalking-ui:10.2.0
+node:lts-alpine
+nginx:alpine

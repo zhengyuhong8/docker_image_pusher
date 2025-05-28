@@ -1,1 +1,1 @@
-linuxserver/chrome:latest
+kasmweb/chrome:latest

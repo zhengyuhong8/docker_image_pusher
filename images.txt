@@ -1,1 +1,1 @@
-kasmweb/chrome:1.8.0-edge
+demisto/sharepoint:1.0.0.115101

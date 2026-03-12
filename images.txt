@@ -1,1 +1,1 @@
-demisto/sharepoint:1.0.0.115101
+openclaw/openclaw:2026-latest

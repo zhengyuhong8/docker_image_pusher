@@ -1,9 +1,1 @@
-vulfocus/wordpress_cve_2022_25149:latest
-vulfocus/taocms_cve_2022_25578:latest
-vulfocus/monstra_cve_2020_13384:latest
-vulfocus/tapestry-cve_2019_0195:latest
-vulfocus/elfinder_cve_2021_32682:latest
-vulfocus/goahead_cve_2021_42342:latest
-vulfocus/wordpress_cve-2021-21389:latest
-vulfocus/kylin-cve_2021_45456:latest
-vulfocus/forgerok_openam-cve_2021_35464:latest
+vulfocus/webmin-cve_2020_35606:latest

@@ -1,7 +1,6 @@
-vulfocus/grafana-read_arbitrary_file:latest
-vulfocus/rconfig-cve_2019_16662:latest
-vulfocus/junams-cnvd_2020_24741:latest
-vulfocus/cmseasy-rce:latest
-vulfocus/netatalk:3.1.11
-vulfocus/drupal-cve_2019_6339:latest
-vulfocus/jenkins-cve_2015_8103:latest
+vulfocus/gitlist-cve_2018_1000533:latest
+vulfocus/phpmailer-cve_2017_5223:latest
+vulfocus/phpimap-cve_2018_19518:latest
+vulfocus/youphptube-cve_2019_5120:latest
+vulfocus/shopxo-cnvd_2021_15822:latest
+vulfocus/xstream-cve_2021_29505:latest
